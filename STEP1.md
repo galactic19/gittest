@@ -43,4 +43,3 @@ git reset --hard HEAD^
 가장 최근 버젼의 두단계 아랫버젼을 원한다면
 #### git reset --hard HEAD^^^ 이렇게 하면된다.
 
-이것은 mybranch 에서 작성한 것입니다.
