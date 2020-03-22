@@ -8,6 +8,10 @@ git add 파일명 ( 깃을 commit 할수 있게 올려줌/추가해줌)
 
 git commit -m "메세지" (커밋하는 명령어 이고 간단하게 작성할떄 사용)
 
+git commit -am  "커밋메세지"
+(위 명령어는 add 와 commit를 동시에 할 수 있게 해주는데 한번이라도 commit 를 해준 대상에만 적용됨)
+
 git status (상태확인)
 
 git log (깃의 상태를 출력?)
+
