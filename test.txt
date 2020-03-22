@@ -4,7 +4,7 @@ git 명령어 모음
 
 git init ( 최초 초기화 해주는 명령어)
 
-git add (
+git add 파일명 ( 깃을 commit 할수 있게 올려줌/추가해줌)
 
 git commit -m "메세지" (커밋하는 명령어 이고 간단하게 작성할떄 사용)
 
